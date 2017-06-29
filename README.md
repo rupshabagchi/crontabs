@@ -1,7 +1,6 @@
 # My Scripts
 
-These are some very basic scripts that I use almost everyday to make my life easier. You can use them too if it helps you.
-
+These are some very basic scripts that I use almost everyday to make my life easier. 
 ## For cron tabs
 
  `chmod +x <jobname>`
