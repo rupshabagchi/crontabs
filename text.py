@@ -1,4 +1,6 @@
-#sends test messages 
+"""
+This script sends test messages to a registered number
+"""
 #!python
 
 sid="XXXXXXXXXXXXXXXXXXXXXXXXXXX"
