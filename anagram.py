@@ -1,3 +1,6 @@
+"""
+This script creates all possible anagrams of a word or a sentence
+"""
 import sys
 
 def perm(current):
