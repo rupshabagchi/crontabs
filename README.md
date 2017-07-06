@@ -4,7 +4,8 @@ These are some very basic scripts that I use almost everyday to make my life eas
 
 #### The List
 
-* wifi-reset.sh : resets the wifi connection after a certain time
+* ***wifi-reset.sh*** : restarts the wireless interface after a certain time
+* ***anagram.py*** : finds all the anagrams for a given word
 
 #### For cron tabs
 
