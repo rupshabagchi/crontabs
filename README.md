@@ -4,6 +4,8 @@ These are some very basic scripts that I use almost everyday to make my life eas
 
 #### The List
 
+* wifi-reset.sh : resets the wifi connection after a certain time
+
 #### For cron tabs
 
  `chmod +x <jobname>`
