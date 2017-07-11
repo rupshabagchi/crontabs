@@ -9,6 +9,7 @@ These are some very basic scripts that I use almost everyday to make my life eas
 * ***text.py*** : sends a text message with the required information
 * ***filenameAsDate.py*** : saves a file with required information, with the filename as current time
 * ***nameGenerator.py*** : generates a random firstname and lastname beginning with desired alphabet
+* ***pingpong.py*** : generates constant pings to prevent heroku dyno from sleeping
 
 #### For cron tabs
 
