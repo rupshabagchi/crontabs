@@ -11,6 +11,17 @@ These are some very basic scripts that I use almost everyday to make my life eas
 * **nameGenerator.py** : generates a random firstname and lastname beginning with desired alphabet
 * **pingpong.py** : generates constant pings to prevent heroku dyno from sleeping
 
+| Script       | Purpose           |
+| ------------- |:-------------:| 
+| wifi-reset.sh      | restarts the wireless interface after a certain time | 
+| anagram.py     | finds all the anagrams for a given word      |  
+| text.py | sends a text message with the required information     |   
+| zebra stripes | are neat      |   
+| zebra stripes | are neat      |   
+| zebra stripes | are neat      |   
+
+
+
 #### For cron tabs
 
  `chmod +x <jobname>`
