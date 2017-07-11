@@ -2,7 +2,8 @@
 
 These are some very basic scripts that I use almost everyday to make my life easier. While each independent script might not achieve anything mighty, they make life convenient when used with other services.
 
-#### The List
+
+### The List
 
 
 | Script       | Purpose           |
@@ -13,6 +14,7 @@ These are some very basic scripts that I use almost everyday to make my life eas
 | filenameAsDate.py | saves a file with required information, with the filename as current time      |   
 | nameGenerator.py | generates a random firstname and lastname beginning with desired alphabet      |   
 | pingpong.py | generates constant pings to prevent heroku dyno from sleeping      |   
+
 
 
 
