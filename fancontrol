@@ -1,4 +1,5 @@
 ## sensor temperature continuous monitoring
+## first pwm1_enabled needs to be set to 1  at the location '/sys/devices/platform/asus-nb-wmi/hwmon/hwmon3'
 
 watch -n 3 sensors
 
