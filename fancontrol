@@ -1,14 +1,6 @@
 ## sensor temperature continuous monitoring
 
-#!/bin/bash
-while : ;
-do
-     sleep 3
-     clear
-     sensors 
-done
-
-
+watch -n 3 sensors
 
 ## set fan speed based on that
 
