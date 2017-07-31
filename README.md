@@ -15,7 +15,7 @@ These are some very basic scripts that I use almost everyday to make my life eas
 | nameGenerator.py | generates a random firstname and lastname beginning with desired alphabet      |   
 | pingpong.py | generates constant pings to prevent heroku dyno from sleeping      |   
 | fancontrol | constant checks to check sensor temp and adjust fan speed according to that      |  
-| tea-brewing | reminds me after 5 minutes that my tea is done      |  
+| tea-brewing | notifies me after 5 minutes that my tea is done      |  
 
 
 
