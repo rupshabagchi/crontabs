@@ -16,6 +16,7 @@ These are some very basic scripts that I use almost everyday to make my life eas
 | pingpong.py | generates constant pings to prevent heroku dyno from sleeping      |   
 | fancontrol | constant checks to check sensor temp and adjust fan speed according to that      |  
 | tea-brewing | notifies me after 5 minutes that my tea is done      |  
+| basic-dict.py | an interactive dictionary that makes use of difflib module     |  
 
 
 
