@@ -1,4 +1,4 @@
-# My Scripts
+## My Scripts
 
 These are some very basic scripts that I use almost everyday to make my life easier. While each independent script might not achieve anything mighty, they make life convenient when used with other services.
 
